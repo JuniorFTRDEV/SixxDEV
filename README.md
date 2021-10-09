@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @SixxDEV
+- 🌱 I am currently learning .lua, js, html e css
+- 📫 my discord: https://discord.gg/G4CJuvUdgg
