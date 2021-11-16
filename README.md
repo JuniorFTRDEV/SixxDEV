@@ -1,3 +1,9 @@
-- 👋 Hi, I'm @SixxDEV
-- 🌱 I am currently learning .lua, js, html e css
-- 📫 my discord: https://discord.gg/G4CJuvUdgg
+hello i'm six dev
+
+I studied
+Analysis and systems development.
+Computer science.
+Computer engineering.
+Software Engineering.
+Information systems.
+Systems for internet.
